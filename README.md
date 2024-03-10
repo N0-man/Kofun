@@ -12,6 +12,15 @@ BTW in real world, Kofun (古墳, from Sino-Japanese "ancient grave") are megali
 4. Pure functions
 5. High order functions
 
+Ideas
+
+- Functional Data Structure
+- Strictness and Laziness
+- Purely functional state
+- Purely functional parallelism
+- Monoids and Functions
+-
+
 ### References
 
 - #### [Awesome Kotlin](https://github.com/mcxiaoke/awesome-kotlin)
